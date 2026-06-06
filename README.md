@@ -149,7 +149,7 @@ This documentation is informed by hands-on management of a production rack envir
 
 **George Amankwaa Sarpong**
 Data Center Operations & Critical Infrastructure Engineer
-📍 Accra, Ghana 
+📍 Accra, Ghana.
 🔗 [LinkedIn](https://linkedin.com/in/georgesarpong)
 🌐 [GitHub Portfolio](https://github.com/GeorgeSarpong)
 
